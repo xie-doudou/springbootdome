@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootHelloWordApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(SpringBootHelloWordApplication.class, args);
     }
 }
